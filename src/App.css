@@ -1,0 +1,33 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background-color: #fffffe;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+.task-container {
+  background-color: #00ebc7;
+  width: 500px;
+  height: 500px;
+  padding: 4rem 0;
+  margin: 0 auto;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  border-radius: 4px;
+  color: #00214d;
+}
+
+h1 {
+  text-align: center;
+}
+
+.tasks-empty {
+  margin-top: 2rem;
+  text-align: center;
+}
