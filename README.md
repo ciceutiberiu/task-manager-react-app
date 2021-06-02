@@ -3,7 +3,7 @@
 ## Reflection 
 
 This was a very nice app to Build, it is for everyone who wants to have a better and organised life.
-This was a project where I improved my skills working with React, JSX, styled-components, uuid, react-icons, Context API, CSS, JS etc.
+This was a project where I improved my skills working with React, JSX, styled-components, uuid, react-icons, Context API, CSS, JS, local storage etc.
 
 I started this process by using the `create-react-app` boilerplate, then adding `Context API`.  
 
