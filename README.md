@@ -2,8 +2,8 @@
 
 ## Project Images
 
-
-
+![manager-1](https://user-images.githubusercontent.com/45262167/120515080-a1ce4680-c3d6-11eb-8e8f-5abe2eaf1628.png)
+![manager-2](https://user-images.githubusercontent.com/45262167/120515083-a2ff7380-c3d6-11eb-9c7c-3efccd3052c7.png)
 
 ## Reflection 
 
